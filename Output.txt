@@ -1,0 +1,3 @@
+The route with the biggest time differential is
+10013      EB   97     WB   106   
+with a time difference of 9 minutes. 
